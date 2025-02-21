@@ -7,7 +7,9 @@ Follow these steps to set up the project locally:
 ```sh
 git clone https://github.com/vaibhav1565/Netflix-GPT
 cd Netflix-GPT
+```
 
+```sh
 # Setup environment variables
 # 1. Create a .env file in the project root.
 
